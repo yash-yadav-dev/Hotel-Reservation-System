@@ -1,0 +1,8 @@
+PORTABLE INSTALLATION
+
+1. Install Python 3.10 or newer.
+2. Double-click Start_HotelDB.bat.
+3. The launcher installs tkcalendar when required and starts the app.
+4. The SQLite database is created automatically in data/hotel_reservation.db.
+
+No MySQL installation, credentials or server configuration is required.
